@@ -31,7 +31,7 @@ function App() {
   </div>
 
   <div className="profile-image">
-    <img src="public/profile.png" alt="profile" />
+    <img src="public/profile1.png" alt="profile" />
   </div>
 </section>
 
@@ -66,22 +66,22 @@ function App() {
 
   <div className="skills-container">
     <div className="skill-card">
-      <img src="public/mongodb1.png" alt="MongoDB" className="skill-img" />
+      <img src="public/mongodb11.png" alt="MongoDB" className="skill-img" />
       <p>MongoDB</p>
     </div>
 
     <div className="skill-card">
-      <img src="public/express2.jpg" alt="Express.js" className="skill-img" />
+      <img src="public/express21.jpg" alt="Express.js" className="skill-img" />
       <p>Express.js</p>
     </div>
 
     <div className="skill-card">
-      <img src="public/react.png" alt="React" className="skill-img" />
+      <img src="public/react1.png" alt="React" className="skill-img" />
       <p>React</p>
     </div>
 
     <div className="skill-card">
-      <img src="public/node.png" alt="Node.js" className="skill-img" />
+      <img src="public/node1.png" alt="Node.js" className="skill-img" />
       <p>Node.js</p>
     </div>
   </div>
@@ -94,17 +94,17 @@ function App() {
 
   <div className="project-list">
     <div className="card">
-      <img src="public/awesometodos.png" alt="Awesometodos" className="project-img" />
+      <img src="public/awesometodos1.png" alt="Awesometodos" className="project-img" />
       <h3>Awesometodos</h3>
     </div>
 
     <div className="card">
-      <img src="public/classe.jpg" alt="Classe" className="project-img" />
+      <img src="public/classe1.jpg" alt="Classe" className="project-img" />
       <h3>Classee</h3>
     </div>
 
     <div className="card">
-      <img src="public/webprofile.png" alt="Web Portfolio" className="project-img" />
+      <img src="public/webprofile1.png" alt="Web Portfolio" className="project-img" />
       <h3>Web Portfolio</h3>
     </div>
   </div>
